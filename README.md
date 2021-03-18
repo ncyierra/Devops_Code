@@ -1,3 +1,7 @@
-# maven-project
+#Complete devOps Pipeline
 
-Simple Maven Project
+Version Control System: Git, Github
+Integration Tool: Jenkins 
+Build Tool: Maven
+Configuration Management: Ansible 
+Deployment Tool: Kubernetes
